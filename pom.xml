@@ -40,7 +40,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/antoniovillavicencio/spring-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:antoniovillavicencio/spring-pet-clinic.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
